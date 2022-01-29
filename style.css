@@ -1,0 +1,16 @@
+p {
+    line-height: 1.5;
+}
+h1 {
+    color: rgba(16, 160, 179, 0.667);
+}
+li {
+    list-style: none;
+}
+a:hover {
+    color:red;
+}
+nav {
+    border-top: 5px solid rgb(23, 231, 134);
+    border-bottom: 5px solid rgb(23, 231, 134);
+}
